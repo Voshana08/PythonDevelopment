@@ -3,6 +3,8 @@
 This repository contains a collection of my Python projects — ranging from simple beginner exercises to more advanced applications and full-stack web projects.
 It is designed to track my learning journey, showcase my coding progress, and serve as a central place for all my Python work.
 
+📁 Repository Structure
+The repo is organised into folders based on project type and difficulty level:
 /beginner-projects/     → small scripts, exercises, simple apps  
 /intermediate-projects/ → data analysis, automation, object-oriented programs  
 /advanced-projects/     → larger applications, APIs, backend services  

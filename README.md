@@ -4,7 +4,9 @@ This repository contains a collection of my Python projects — ranging from sim
 It is designed to track my learning journey, showcase my coding progress, and serve as a central place for all my Python work.
 
 📁 Repository Structure
+
 The repo is organised into folders based on project type and difficulty level:
+
 /beginner-projects/     → small scripts, exercises, simple apps  
 /intermediate-projects/ → data analysis, automation, object-oriented programs  
 /advanced-projects/     → larger applications, APIs, backend services  
@@ -28,5 +30,6 @@ python main.py
 
 
 🧑‍💻 About Me
+
 I’m a software developer passionate about Python, data analysis, full-stack development, and building real-world applications.
 This repository reflects my learning, experimentation, and growth as a developer.

@@ -19,8 +19,11 @@ Build a portfolio for future software development roles
 
 🔗 Terminal commands
 git clone https://github.com/your-username/your-repo-name.git
+
 cd folder-name
+
 pip install -r requirements.txt
+
 python main.py
 
 
